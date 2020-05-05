@@ -1,2 +1,2 @@
 # evaluating-garch
-evaluating garch model
+Evaluating garch model
