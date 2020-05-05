@@ -14,7 +14,7 @@ if '__main__' == __name__:
     
     model = pf.GARCH(returns,p=1,q=1)
     x = model.fit()
-    x.summary()
+    print(x.summary())
 
     """
         GARCH(1,1)
